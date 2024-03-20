@@ -1,2 +1,2 @@
 # DQN_base
-DQN实现路及规划
+DQN实现路径规划
